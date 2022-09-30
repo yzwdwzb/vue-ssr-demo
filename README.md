@@ -1,5 +1,7 @@
 ## SSR
 
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3393facb-1b77-48a7-86d7-13d5976f7748/7bbeb528-ae2d-4732-a002-34eec0ecc119.png)
+
 将一个Vue组件在服务器端渲染为HTML字符串并发送到浏览器，最后再将这些静态标记"激活"为可交互应用程序的过程称为服务端渲染。
 
 ### 优点
@@ -57,7 +59,7 @@ app.listen(3000, () => {
 
 在server下输入`node test.js` ,打开`http://localhost:3000/`即可看到页面
 
-
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3393facb-1b77-48a7-86d7-13d5976f7748/c359a238-efc2-4d98-b832-642d65258d1d.png)
 
 ## 使用vue-router处理路由
 
@@ -372,3 +374,6 @@ node index.js
 
 ### 结果
 
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3393facb-1b77-48a7-86d7-13d5976f7748/75ec0dad-78e4-48dd-9bf6-a9cebef68f3e.png)
+
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3393facb-1b77-48a7-86d7-13d5976f7748/8010c773-0aa9-4809-9e93-1c8f249d4da6.png)
