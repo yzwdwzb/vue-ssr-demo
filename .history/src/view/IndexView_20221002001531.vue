@@ -9,7 +9,7 @@
         <div>
             <button @click="increment">count++</button>
         </div>
-        <div class="animated infinite bounce box"></div>
+        <div class="animated infinite bounce box">无限弹跳效果</div>
     </div>
 </template>
 <script>

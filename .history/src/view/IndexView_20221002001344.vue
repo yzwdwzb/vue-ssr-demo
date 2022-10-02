@@ -5,11 +5,10 @@
             {{descTitle}}
         </div>
         <h2> count: {{count}}</h2>
-       
+        <div class="animated infinite bounce">无限弹跳效果</div>
         <div>
             <button @click="increment">count++</button>
         </div>
-        <div class="animated infinite bounce box"></div>
     </div>
 </template>
 <script>
@@ -44,10 +43,5 @@ export default {
 }
 </script>
 <style scoped>
-.box{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    background-color: blueviolet;
-}
+
 </style>
